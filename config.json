@@ -1,3 +1,5 @@
 {
-  "enabled": true
+  "enabled": false,
+  "message": "הגרסה שלך ישנה, אנא הורד את הגרסה החדשה.",
+  "version": "1.0.0"
 }
